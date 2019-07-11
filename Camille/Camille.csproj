@@ -7,16 +7,16 @@
     <Version>2.2.1</Version>
     <Authors>MingweiSamuel</Authors>
     <Company>MingweiSamuel</Company>
-    <PackageLicenseUrl>https://www.gnu.org/licenses/gpl-3.0.txt</PackageLicenseUrl>
+    <PackageLicenseUrl>https://www.gnu.org/licenses/lgpl-3.0.txt</PackageLicenseUrl>
     <Copyright>LGPLv3 2019</Copyright>
     <PackageProjectUrl>https://github.com/MingweiSamuel/Camille</PackageProjectUrl>
-    <PackageIconUrl>http://ddragon.leagueoflegends.com/cdn/8.24.1/img/champion/Camille.png</PackageIconUrl>
+    <PackageIconUrl>http://ddragon.leagueoflegends.com/cdn/9.8.1/img/champion/Camille.png</PackageIconUrl>
     <RepositoryUrl>https://github.com/MingweiSamuel/Camille</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <Description>Riot Games API library. Fully rate limited, automatic retrying, thread-safe. V4 Supported.</Description>
     <Summary>Riot Games API library. Fully rate limited, automatic retrying, thread-safe. V4 Supported.</Summary>
-    <PackageTags>riot games api league of legends camille riotsharp</PackageTags>
-    <PackageReleaseNotes>Updates for v4 leagues</PackageReleaseNotes>
+    <PackageTags>riot games api;league of legends;camille;riotsharp</PackageTags>
+    <PackageReleaseNotes></PackageReleaseNotes>
     <FileVersion>1.0.0.0</FileVersion>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>

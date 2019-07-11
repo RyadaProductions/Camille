@@ -17,6 +17,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Camille.Entity", "Camille.Entity\Camille.Entity.csproj", "{3B922469-10D0-452A-9CB6-EB4CA662442C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Camille.Entity.Test", "Camille.Entity.Test\Camille.Entity.Test.csproj", "{1C9D13A2-E651-469D-9E77-47AB8BF4C2D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +35,14 @@ Global
 		{8A60F139-66B8-46F2-8933-DBE9C80C657F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A60F139-66B8-46F2-8933-DBE9C80C657F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A60F139-66B8-46F2-8933-DBE9C80C657F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B922469-10D0-452A-9CB6-EB4CA662442C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B922469-10D0-452A-9CB6-EB4CA662442C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B922469-10D0-452A-9CB6-EB4CA662442C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B922469-10D0-452A-9CB6-EB4CA662442C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C9D13A2-E651-469D-9E77-47AB8BF4C2D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9D13A2-E651-469D-9E77-47AB8BF4C2D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9D13A2-E651-469D-9E77-47AB8BF4C2D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9D13A2-E651-469D-9E77-47AB8BF4C2D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
